@@ -18,9 +18,9 @@ export const homeProducts = [
 export const categoryProducts = [
   {
     id: 1,
-    name: "Bayam Hijau",
+    name: "Bayam Jepang",
     weight: "225 - 250 gram",
-    price: "Rp 5.000",
+    price: "Rp 10.000",
     image: "https://images.unsplash.com/photo-1576045057995-568f588f82fb?auto=format&fit=crop&w=500&q=80",
   },
   {
