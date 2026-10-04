@@ -44,4 +44,12 @@ export const categoryProducts = [
     price: "Rp 10.000",
     image: "https://images.unsplash.com/photo-1447175008436-054170c2e979?auto=format&fit=crop&w=500&q=80",
   },
+  {
+    id: 5,
+    name: "Timun",
+    weight: "500 gram",
+    price: "Rp 7.000",
+    image: "https://images.unsplash.com/photo-1447175008436-054170c2e979?auto=format&fit=crop&w=500&q=80",
+  },
+
 ];
